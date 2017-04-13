@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1084817730182",
+    "firebase_url": "https://nodepusher.firebaseio.com",
+    "project_id": "nodepusher",
+    "storage_bucket": "nodepusher.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084817730182:android:d9b88bde43435ca8",
+        "android_client_info": {
+          "package_name": "it.parello.nodepushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084817730182-te5g9iq3k04j0kiktrgco9u05pq8umfa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGUGZamIpMe6Ax_fl8frYPQ-ZnFoBuMuA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
